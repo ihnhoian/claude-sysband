@@ -1,0 +1,1 @@
+{ "name": "sys-band", "version": "0.1.0", "description": "입력창 위에 남은 사용량·디스크·메모리를 늘 표시", "types": "./types/index.d.ts" }
